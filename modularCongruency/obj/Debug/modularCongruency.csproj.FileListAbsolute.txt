@@ -1,0 +1,9 @@
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\bin\Debug\modularCongruency.exe.config
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\bin\Debug\modularCongruency.exe
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\bin\Debug\modularCongruency.pdb
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.csprojResolveAssemblyReference.cache
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.Form1.resources
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.Properties.Resources.resources
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.csproj.GenerateResource.Cache
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.exe
+c:\users\lorand\documents\visual studio 2015\Projects\modularCongruency\modularCongruency\obj\Debug\modularCongruency.pdb
